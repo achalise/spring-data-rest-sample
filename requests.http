@@ -1,0 +1,4 @@
+GET http://localhost:8080/addresses
+
+###
+GET http://localhost:8080/addresses/2
